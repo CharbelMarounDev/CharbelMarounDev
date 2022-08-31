@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charbelmaroundev&label=Profile%20views&color=0e75b6&style=flat" alt="charbelmaroundev" /> </p>
 
-- 🔭 I’m currently working on **working**
-
 - 🌱 I’m currently learning **Front-end dev**
 
 - 📫 How to reach me **charbelmaroun.dev@gmail.com**
