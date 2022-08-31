@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **charbelmaroun.dev@gmail.com**
 
-- ⚡ Fun fact **I am debugger :)**
+- ⚡ Fun fact **I am a debugger :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
