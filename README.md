@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-
-<h1 style="font:30px"align="center">I'm Charbel, a full-stack software developer 👨‍💻</h1>  
  </div>  
+<h1 style="font:30px"align="center">I'm Charbel, a full-stack software developer 👨‍💻</h1>  
+
 - 📫 How to reach me **charbelmaroun.dev@gmail.com**
 
 - ⚡ Fun fact **I'm a debugger :)**
