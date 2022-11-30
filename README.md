@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-<h1 style="font:30px"align="center">I'm Charbel, a <b>full-stack software developer</b> 👨‍💻</h1>  
+
+<h1 style="font:30px"align="center">I'm Charbel, a full-stack software developer 👨‍💻</h1>  
 
 - 📫 How to reach me **charbelmaroun.dev@gmail.com**
 
@@ -44,6 +44,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+ </div>  
