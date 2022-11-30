@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<b align="center">I'm Charbel, a full-stack developer 👨‍💻</b>  
+<div style="font:30px"align="center">I'm Charbel, a full-stack developer 👨‍💻</div>  
 
 - 📫 How to reach me **charbelmaroun.dev@gmail.com**
 
